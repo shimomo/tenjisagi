@@ -14,8 +14,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/boatracevibeproject/tenjisagi/issues",
-        "source": "https://github.com/boatracevibeproject/tenjisagi"
+        "issues": "https://github.com/shimomo/tenjisagi/issues",
+        "source": "https://github.com/shimomo/tenjisagi"
     },
     "require": {
         "php": "^8.3",

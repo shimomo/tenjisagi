@@ -10,7 +10,7 @@
 
 ## ランキングはこちら
 
-**[https://boatracevibeproject.github.io/tenjisagi/](https://boatracevibeproject.github.io/tenjisagi/)**
+**[https://shimomo.github.io/tenjisagi/](https://shimomo.github.io/tenjisagi/)**
 
 `docs/` 以下に生成されるページを、そのまま GitHub Pages で公開しています。フレームワークもビルドツールも無し、素の HTML・CSS・JS だけで動く質素な作りです。
 
