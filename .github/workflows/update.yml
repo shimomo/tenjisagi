@@ -33,7 +33,7 @@ jobs:
           fetch-depth: 0
 
       - name: Install dependencies
-        run: composer update --prefer-dist --no-interaction --no-progress
+        run: composer install --prefer-dist --no-interaction --no-progress
 
       - name: Determine target dates (JST)
         id: date

@@ -11,28 +11,16 @@ on:
 
 jobs:
   audit:
-    name: Audit on PHP ${{ matrix.php-version }} (Ubuntu 24.04)
+    name: Audit composer.lock (Ubuntu 24.04)
     runs-on: ubuntu-24.04
-    strategy:
-      fail-fast: false
-      matrix:
-        php-version:
-          - '8.3'
-          - '8.4'
-          - '8.5'
     steps:
-      - name: Setup PHP ${{ matrix.php-version }}
+      - name: Setup PHP 8.5
         uses: shivammathur/setup-php@v2
         with:
-          php-version: ${{ matrix.php-version }}
+          php-version: '8.5'
 
       - name: Checkout Repository
         uses: actions/checkout@v7
-        with:
-          fetch-depth: 0
-
-      - name: Install Dependencies
-        run: composer update --prefer-dist --no-interaction --no-progress
 
       - name: Audit Composer
-        run: composer audit
+        run: composer audit --locked
