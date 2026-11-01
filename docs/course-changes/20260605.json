@@ -6,3430 +6,5390 @@
             "name": "富山 弘幸",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3072": {
             "number": 3072,
             "name": "西田 靖",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 1,
+            "outer_race_rate": 1,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3224": {
             "number": 3224,
             "name": "栗山 繁洋",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3226": {
             "number": 3226,
             "name": "浦田 信義",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3233": {
             "number": 3233,
             "name": "小畑 実成",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3256": {
             "number": 3256,
             "name": "三角 哲男",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3284": {
             "number": 3284,
             "name": "渡邊 伸太郎",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 1,
+            "outer_race_rate": 1,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3293": {
             "number": 3293,
             "name": "宮内 由紀英",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3300": {
             "number": 3300,
             "name": "川崎 智幸",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3305": {
             "number": 3305,
             "name": "小野 信樹",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "3306": {
             "number": 3306,
             "name": "武田 正紀",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3315": {
             "number": 3315,
             "name": "広瀬 聖仁",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3333": {
             "number": 3333,
             "name": "丸尾 義孝",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3334": {
             "number": 3334,
             "name": "角 ひとみ",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3339": {
             "number": 3339,
             "name": "泉 具巳",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3340": {
             "number": 3340,
             "name": "池田 雷太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3361": {
             "number": 3361,
             "name": "岡部 浩",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3370": {
             "number": 3370,
             "name": "坪内 実",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3372": {
             "number": 3372,
             "name": "加藤 雅之",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3381": {
             "number": 3381,
             "name": "滝沢 芳行",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3388": {
             "number": 3388,
             "name": "今垣 光太郎",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "3415": {
             "number": 3415,
             "name": "松井 繁",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3436": {
             "number": 3436,
             "name": "柏野 幸二",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3455": {
             "number": 3455,
             "name": "谷本 幸司",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3458": {
             "number": 3458,
             "name": "東 健介",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3459": {
             "number": 3459,
             "name": "中野 和裕",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3473": {
             "number": 3473,
             "name": "石川 真二",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3482": {
             "number": 3482,
             "name": "金子 猛志",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3502": {
             "number": 3502,
             "name": "渡邉 英児",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3503": {
             "number": 3503,
             "name": "堂原 洋史",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3507": {
             "number": 3507,
             "name": "藤井 徹",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3532": {
             "number": 3532,
             "name": "柴田 光",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "3539": {
             "number": 3539,
             "name": "金子 順一",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3541": {
             "number": 3541,
             "name": "三嶌 誠司",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3542": {
             "number": 3542,
             "name": "清水 紀克",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3551": {
             "number": 3551,
             "name": "藤田 美代",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3557": {
             "number": 3557,
             "name": "太田 和美",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3562": {
             "number": 3562,
             "name": "山下 和彦",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3563": {
             "number": 3563,
             "name": "堤 昇",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3564": {
             "number": 3564,
             "name": "桑原 啓",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3568": {
             "number": 3568,
             "name": "木村 光宏",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3596": {
             "number": 3596,
             "name": "河上 年昭",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3602": {
             "number": 3602,
             "name": "奥平 拓也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3621": {
             "number": 3621,
             "name": "天野 晶夫",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3653": {
             "number": 3653,
             "name": "品川 賢次",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3655": {
             "number": 3655,
             "name": "本橋 克洋",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3661": {
             "number": 3661,
             "name": "柳瀬 興志",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3664": {
             "number": 3664,
             "name": "鈴木 賢一",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3680": {
             "number": 3680,
             "name": "森林 太",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3685": {
             "number": 3685,
             "name": "荒井 輝年",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3699": {
             "number": 3699,
             "name": "富永 正人",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3701": {
             "number": 3701,
             "name": "大西 隆洋",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3703": {
             "number": 3703,
             "name": "鳥飼 眞",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3711": {
             "number": 3711,
             "name": "江本 真治",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3716": {
             "number": 3716,
             "name": "石渡 鉄兵",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3719": {
             "number": 3719,
             "name": "辻 栄蔵",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3731": {
             "number": 3731,
             "name": "高濱 芳久",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3737": {
             "number": 3737,
             "name": "上平 真二",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3742": {
             "number": 3742,
             "name": "宮地 秀祈",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3747": {
             "number": 3747,
             "name": "國崎 良春",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3773": {
             "number": 3773,
             "name": "津留 浩一郎",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3777": {
             "number": 3777,
             "name": "樋口 亮",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3779": {
             "number": 3779,
             "name": "原田 幸哉",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3783": {
             "number": 3783,
             "name": "瓜生 正義",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3787": {
             "number": 3787,
             "name": "天野 誠",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3796": {
             "number": 3796,
             "name": "長野 道臣",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3797": {
             "number": 3797,
             "name": "岩井 繁",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3800": {
             "number": 3800,
             "name": "牧 宏次",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3804": {
             "number": 3804,
             "name": "中渡 修作",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3807": {
             "number": 3807,
             "name": "岡部 哲",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3809": {
             "number": 3809,
             "name": "吉田 光",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3814": {
             "number": 3814,
             "name": "金子 貴志",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3827": {
             "number": 3827,
             "name": "今泉 徹",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3837": {
             "number": 3837,
             "name": "秋山 広一",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3853": {
             "number": 3853,
             "name": "岩崎 正哉",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3859": {
             "number": 3859,
             "name": "多羅尾 達之",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3860": {
             "number": 3860,
             "name": "松本 浩貴",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3866": {
             "number": 3866,
             "name": "木山 誠一",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3869": {
             "number": 3869,
             "name": "井芹 大志",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3871": {
             "number": 3871,
             "name": "池田 紫乃",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3873": {
             "number": 3873,
             "name": "別府 昌樹",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3874": {
             "number": 3874,
             "name": "山本 寛久",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3880": {
             "number": 3880,
             "name": "浅見 宗孝",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3891": {
             "number": 3891,
             "name": "谷口 健一",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3892": {
             "number": 3892,
             "name": "草場 康幸",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3897": {
             "number": 3897,
             "name": "白井 英治",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3898": {
             "number": 3898,
             "name": "平田 忠則",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3907": {
             "number": 3907,
             "name": "村越 篤",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "3911": {
             "number": 3911,
             "name": "鈴木 猛",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3912": {
             "number": 3912,
             "name": "川原 正明",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3915": {
             "number": 3915,
             "name": "繁野谷 圭介",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "3918": {
             "number": 3918,
             "name": "深井 利寿",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3922": {
             "number": 3922,
             "name": "菅沼 佳昭",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3930": {
             "number": 3930,
             "name": "岸本 隆",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "3940": {
             "number": 3940,
             "name": "飯山 泰",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3941": {
             "number": 3941,
             "name": "池田 浩二",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3942": {
             "number": 3942,
             "name": "寺田 祥",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3946": {
             "number": 3946,
             "name": "赤岩 善生",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3948": {
             "number": 3948,
             "name": "大町 利克",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3951": {
             "number": 3951,
             "name": "石川 吉鎬",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3953": {
             "number": 3953,
             "name": "志道 吉和",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "3956": {
             "number": 3956,
             "name": "横澤 剛治",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3957": {
             "number": 3957,
             "name": "大谷 直弘",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3960": {
             "number": 3960,
             "name": "菊地 孝平",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3961": {
             "number": 3961,
             "name": "谷村 一哉",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3967": {
             "number": 3967,
             "name": "鈴木 茂高",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3973": {
             "number": 3973,
             "name": "崎 利仁",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3974": {
             "number": 3974,
             "name": "深山 祐二",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3982": {
             "number": 3982,
             "name": "福田 理",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3983": {
             "number": 3983,
             "name": "須藤 博倫",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3988": {
             "number": 3988,
             "name": "古川 誠之",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3990": {
             "number": 3990,
             "name": "芹澤 克彦",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "3999": {
             "number": 3999,
             "name": "大瀧 明日香",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4002": {
             "number": 4002,
             "name": "古結 宏",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4006": {
             "number": 4006,
             "name": "小野 勇作",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4007": {
             "number": 4007,
             "name": "榮田 将彦",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4009": {
             "number": 4009,
             "name": "小林 一樹",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4014": {
             "number": 4014,
             "name": "片岡 恵里",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4017": {
             "number": 4017,
             "name": "向井 美鈴",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4023": {
             "number": 4023,
             "name": "柴田 友和",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4027": {
             "number": 4027,
             "name": "松江 秀徳",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4034": {
             "number": 4034,
             "name": "西原 明生",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4035": {
             "number": 4035,
             "name": "杉江 浩明",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4036": {
             "number": 4036,
             "name": "金田 諭",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4051": {
             "number": 4051,
             "name": "清水 敦揮",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4053": {
             "number": 4053,
             "name": "芦澤 望",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4054": {
             "number": 4054,
             "name": "福嶋 智之",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4063": {
             "number": 4063,
             "name": "市橋 卓士",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4064": {
             "number": 4064,
             "name": "原田 篤志",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "4069": {
             "number": 4069,
             "name": "山本 修一",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4071": {
             "number": 4071,
             "name": "古賀 千晶",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4072": {
             "number": 4072,
             "name": "森永 淳",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4073": {
             "number": 4073,
             "name": "大橋 純一郎",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4075": {
             "number": 4075,
             "name": "中野 次郎",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4076": {
             "number": 4076,
             "name": "杉田 篤光",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4079": {
             "number": 4079,
             "name": "出畑 孝典",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4083": {
             "number": 4083,
             "name": "福島 勇樹",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4086": {
             "number": 4086,
             "name": "寺本 重宣",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4095": {
             "number": 4095,
             "name": "福来 剛",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4096": {
             "number": 4096,
             "name": "石橋 道友",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4097": {
             "number": 4097,
             "name": "貫地谷 直人",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4099": {
             "number": 4099,
             "name": "吉永 則雄",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4103": {
             "number": 4103,
             "name": "山崎 善庸",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4105": {
             "number": 4105,
             "name": "松下 直也",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4109": {
             "number": 4109,
             "name": "谷津 幸宏",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4119": {
             "number": 4119,
             "name": "泥谷 一毅",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4120": {
             "number": 4120,
             "name": "柘植 政浩",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4128": {
             "number": 4128,
             "name": "川口 貴久",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4134": {
             "number": 4134,
             "name": "杉山 貴博",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4137": {
             "number": 4137,
             "name": "君島 秀三",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4139": {
             "number": 4139,
             "name": "丹下 健",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4143": {
             "number": 4143,
             "name": "浦田 晃嗣",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4148": {
             "number": 4148,
             "name": "枝尾 賢",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4173": {
             "number": 4173,
             "name": "岡谷 健吾",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4180": {
             "number": 4180,
             "name": "上野 秀和",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4188": {
             "number": 4188,
             "name": "久田 敏之",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4189": {
             "number": 4189,
             "name": "川上 剛",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4197": {
             "number": 4197,
             "name": "渥美 卓郎",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4203": {
             "number": 4203,
             "name": "小倉 康典",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4205": {
             "number": 4205,
             "name": "山口 剛",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4211": {
             "number": 4211,
             "name": "村田 敦",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4218": {
             "number": 4218,
             "name": "吉川 喜継",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4224": {
             "number": 4224,
             "name": "大橋 栄里佳",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4227": {
             "number": 4227,
             "name": "安達 裕樹",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4232": {
             "number": 4232,
             "name": "笠 雅雄",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4236": {
             "number": 4236,
             "name": "松村 敏",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4239": {
             "number": 4239,
             "name": "竹田 辰也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4247": {
             "number": 4247,
             "name": "齊藤 優",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4251": {
             "number": 4251,
             "name": "川崎 誠志",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4257": {
             "number": 4257,
             "name": "古川 健",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4260": {
             "number": 4260,
             "name": "中越 博紀",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4262": {
             "number": 4262,
             "name": "馬場 貴也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4263": {
             "number": 4263,
             "name": "武重 雄介",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4264": {
             "number": 4264,
             "name": "長尾 章平",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4266": {
             "number": 4266,
             "name": "長田 頼宗",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4269": {
             "number": 4269,
             "name": "杉山 裕也",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "4270": {
             "number": 4270,
             "name": "岸本 雄貴",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4271": {
             "number": 4271,
             "name": "川崎 公靖",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4276": {
             "number": 4276,
             "name": "鈴木 勝博",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4292": {
             "number": 4292,
             "name": "麻生 慎介",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 1
         },
         "4293": {
             "number": 4293,
             "name": "鈴木 智啓",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4300": {
             "number": 4300,
             "name": "加藤 綾",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4317": {
             "number": 4317,
             "name": "木村 紗友希",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4324": {
             "number": 4324,
             "name": "海野 康志郎",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4331": {
             "number": 4331,
             "name": "三好 勇人",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4336": {
             "number": 4336,
             "name": "松田 竜馬",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4337": {
             "number": 4337,
             "name": "平本 真之",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4344": {
             "number": 4344,
             "name": "新田 雄史",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4351": {
             "number": 4351,
             "name": "里岡 右貴",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4357": {
             "number": 4357,
             "name": "田中 和也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4358": {
             "number": 4358,
             "name": "松本 庸平",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4359": {
             "number": 4359,
             "name": "横川 聖志",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4362": {
             "number": 4362,
             "name": "土屋 智則",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4363": {
             "number": 4363,
             "name": "大野 芳顕",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4365": {
             "number": 4365,
             "name": "盛本 真輔",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4366": {
             "number": 4366,
             "name": "前沢 丈史",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4369": {
             "number": 4369,
             "name": "丹下 将",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4370": {
             "number": 4370,
             "name": "山口 達也",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4371": {
             "number": 4371,
             "name": "西山 貴浩",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4373": {
             "number": 4373,
             "name": "若狭 奈美子",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4375": {
             "number": 4375,
             "name": "照屋 厚仁",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4376": {
             "number": 4376,
             "name": "藤田 靖弘",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4381": {
             "number": 4381,
             "name": "田路 朋史",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4388": {
             "number": 4388,
             "name": "是澤 孝宏",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4390": {
             "number": 4390,
             "name": "松本 弓雄",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4394": {
             "number": 4394,
             "name": "永嶋 裕一",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4395": {
             "number": 4395,
             "name": "下河 雅史",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4397": {
             "number": 4397,
             "name": "西村 拓也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4398": {
             "number": 4398,
             "name": "船岡 洋一郎",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4407": {
             "number": 4407,
             "name": "鹿島 敏弘",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4411": {
             "number": 4411,
             "name": "沢田 昭宏",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4415": {
             "number": 4415,
             "name": "下出 卓矢",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4416": {
             "number": 4416,
             "name": "三宅 健太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4418": {
             "number": 4418,
             "name": "茅原 悠紀",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "4420": {
             "number": 4420,
             "name": "津久井 拓也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4421": {
             "number": 4421,
             "name": "森作 広大",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4424": {
             "number": 4424,
             "name": "松尾 昂明",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4429": {
             "number": 4429,
             "name": "豊田 泰洋",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4433": {
             "number": 4433,
             "name": "川野 芽唯",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4434": {
             "number": 4434,
             "name": "田中 辰彦",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4441": {
             "number": 4441,
             "name": "末永 由楽",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4442": {
             "number": 4442,
             "name": "松竹 大輔",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4444": {
             "number": 4444,
             "name": "桐生 順平",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4447": {
             "number": 4447,
             "name": "深川 麻奈美",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4448": {
             "number": 4448,
             "name": "青木 玄太",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4449": {
             "number": 4449,
             "name": "中嶋 達也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4452": {
             "number": 4452,
             "name": "松尾 祭",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4458": {
             "number": 4458,
             "name": "抹香 雄三",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4471": {
             "number": 4471,
             "name": "新田 泰章",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4483": {
             "number": 4483,
             "name": "北野 輝季",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4485": {
             "number": 4485,
             "name": "楠原 正剛",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4486": {
             "number": 4486,
             "name": "野村 誠",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4487": {
             "number": 4487,
             "name": "三原 司",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4489": {
             "number": 4489,
             "name": "岩川 仁士",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4491": {
             "number": 4491,
             "name": "田中 堅",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4497": {
             "number": 4497,
             "name": "桑原 悠",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4503": {
             "number": 4503,
             "name": "上野 真之介",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4506": {
             "number": 4506,
             "name": "稗田 聖也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4513": {
             "number": 4513,
             "name": "河野 真也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4514": {
             "number": 4514,
             "name": "上條 嘉嗣",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 1
         },
         "4529": {
             "number": 4529,
             "name": "嶋 義信",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4532": {
             "number": 4532,
             "name": "秋元 哲",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4537": {
             "number": 4537,
             "name": "渡邉 和将",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4543": {
             "number": 4543,
             "name": "重木 輝彦",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4544": {
             "number": 4544,
             "name": "松田 大志郎",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4555": {
             "number": 4555,
             "name": "富永 大一",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 1,
+            "outer_race_rate": 1,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4556": {
             "number": 4556,
             "name": "竹井 奈美",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "4566": {
             "number": 4566,
             "name": "塩田 北斗",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "4567": {
             "number": 4567,
             "name": "上村 慎太郎",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4568": {
             "number": 4568,
             "name": "廣瀬 真也",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4574": {
             "number": 4574,
             "name": "東 潤樹",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4575": {
             "number": 4575,
             "name": "戸塚 邦好",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4578": {
             "number": 4578,
             "name": "藤山 雅弘",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4579": {
             "number": 4579,
             "name": "中嶋 健一郎",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4583": {
             "number": 4583,
             "name": "古田 祐貴",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4584": {
             "number": 4584,
             "name": "村岡 賢人",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4586": {
             "number": 4586,
             "name": "磯部 誠",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4588": {
             "number": 4588,
             "name": "田中 京介",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4594": {
             "number": 4594,
             "name": "谷川 祐一",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4596": {
             "number": 4596,
             "name": "葛原 大陽",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4600": {
             "number": 4600,
             "name": "井内 将太郎",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4601": {
             "number": 4601,
             "name": "森野 正弘",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4604": {
             "number": 4604,
             "name": "岩瀬 裕亮",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4607": {
             "number": 4607,
             "name": "鶴田 勇雄",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4608": {
             "number": 4608,
             "name": "荒井 翔伍",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4618": {
             "number": 4618,
             "name": "乃村 康友",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4619": {
             "number": 4619,
             "name": "伏田 裕隆",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4623": {
             "number": 4623,
             "name": "中北 将史",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4640": {
             "number": 4640,
             "name": "山ノ内 雅人",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4644": {
             "number": 4644,
             "name": "山田 亮太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4654": {
             "number": 4654,
             "name": "篠田 優也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4656": {
             "number": 4656,
             "name": "大崎 翔",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4660": {
             "number": 4660,
             "name": "宇田川 信一",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4666": {
             "number": 4666,
             "name": "日笠 勝弘",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4675": {
             "number": 4675,
             "name": "井手 良太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4676": {
             "number": 4676,
             "name": "後藤 隼之",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "4679": {
             "number": 4679,
             "name": "植田 太一",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4682": {
             "number": 4682,
             "name": "大上 卓人",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4684": {
             "number": 4684,
             "name": "楠原 翔太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4688": {
             "number": 4688,
             "name": "永井 彪也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4703": {
             "number": 4703,
             "name": "森永 隆",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4710": {
             "number": 4710,
             "name": "福田 宗平",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4713": {
             "number": 4713,
             "name": "白神 優",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4731": {
             "number": 4731,
             "name": "間野 兼礼",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4736": {
             "number": 4736,
             "name": "高倉 和士",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4739": {
             "number": 4739,
             "name": "中村 晃朋",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4748": {
             "number": 4748,
             "name": "渡邉 雄朗",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4754": {
             "number": 4754,
             "name": "松尾 充",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4759": {
             "number": 4759,
             "name": "今泉 友吾",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 1,
+            "outer_race_rate": 1,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4760": {
             "number": 4760,
             "name": "山崎 郡",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4769": {
             "number": 4769,
             "name": "馬場 剛",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4771": {
             "number": 4771,
             "name": "下寺 秀和",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4773": {
             "number": 4773,
             "name": "中川 りな",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4778": {
             "number": 4778,
             "name": "堤 啓輔",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4789": {
             "number": 4789,
             "name": "古賀 智之",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4790": {
             "number": 4790,
             "name": "柳内 敬太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4791": {
             "number": 4791,
             "name": "黒澤 めぐみ",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4798": {
             "number": 4798,
             "name": "浜先 真範",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4803": {
             "number": 4803,
             "name": "飯田 庄吾",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4808": {
             "number": 4808,
             "name": "松尾 拓",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4811": {
             "number": 4811,
             "name": "向井田 佑紀",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4816": {
             "number": 4816,
             "name": "村松 修二",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4817": {
             "number": 4817,
             "name": "渡邉 翼",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4821": {
             "number": 4821,
             "name": "妻鳥 晋也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4831": {
             "number": 4831,
             "name": "羽野 直也",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4834": {
             "number": 4834,
             "name": "浜本 裕己",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4837": {
             "number": 4837,
             "name": "酒井 陽祐",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4839": {
             "number": 4839,
             "name": "四宮 与寛",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4844": {
             "number": 4844,
             "name": "村上 奈穂",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4846": {
             "number": 4846,
             "name": "佐藤 駿介",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4847": {
             "number": 4847,
             "name": "佐藤 隆太郎",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4848": {
             "number": 4848,
             "name": "仲谷 颯仁",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4851": {
             "number": 4851,
             "name": "関 浩哉",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4852": {
             "number": 4852,
             "name": "川原 祐明",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4853": {
             "number": 4853,
             "name": "前原 哉",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4863": {
             "number": 4863,
             "name": "三浦 裕貴",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4866": {
             "number": 4866,
             "name": "橋本 英一",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 1,
+            "outer_race_rate": 1,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4871": {
             "number": 4871,
             "name": "菊池 宏志",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4872": {
             "number": 4872,
             "name": "山下 流心",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4879": {
             "number": 4879,
             "name": "山崎 鉄平",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4888": {
             "number": 4888,
             "name": "金児 隆太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4890": {
             "number": 4890,
             "name": "石川 諒",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "4893": {
             "number": 4893,
             "name": "渡邉 真奈美",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4901": {
             "number": 4901,
             "name": "出口 舞有子",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4907": {
             "number": 4907,
             "name": "小池 修平",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4910": {
             "number": 4910,
             "name": "中村 泰平",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4925": {
             "number": 4925,
             "name": "森 悠稀",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4927": {
             "number": 4927,
             "name": "関野 文",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4931": {
             "number": 4931,
             "name": "木谷 賢太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4949": {
             "number": 4949,
             "name": "横田 貴満",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4957": {
             "number": 4957,
             "name": "竹之内 極",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4958": {
             "number": 4958,
             "name": "溝口 海義也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4959": {
             "number": 4959,
             "name": "井上 忠政",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4961": {
             "number": 4961,
             "name": "西橋 奈未",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4962": {
             "number": 4962,
             "name": "畑 竜生",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4963": {
             "number": 4963,
             "name": "實森 美祐",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4964": {
             "number": 4964,
             "name": "土屋 南",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4967": {
             "number": 4967,
             "name": "中村 魁生",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4977": {
             "number": 4977,
             "name": "馬野 耀",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "4980": {
             "number": 4980,
             "name": "佐々木 完太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4985": {
             "number": 4985,
             "name": "井本 昌也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4987": {
             "number": 4987,
             "name": "島倉 都",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "4989": {
             "number": 4989,
             "name": "石原 翼",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5004": {
             "number": 5004,
             "name": "河野 主樹",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5006": {
             "number": 5006,
             "name": "久保原 秀人",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5008": {
             "number": 5008,
             "name": "羽野 諒",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5015": {
             "number": 5015,
             "name": "高橋 竜矢",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5017": {
             "number": 5017,
             "name": "澤田 尚也",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5023": {
             "number": 5023,
             "name": "久永 祥平",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5026": {
             "number": 5026,
             "name": "安河内 健",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5029": {
             "number": 5029,
             "name": "中 亮太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5031": {
             "number": 5031,
             "name": "渡辺 空依",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5032": {
             "number": 5032,
             "name": "谷口 知優",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5033": {
             "number": 5033,
             "name": "藤原 孝斗",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5034": {
             "number": 5034,
             "name": "若林 義人",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5035": {
             "number": 5035,
             "name": "櫻井 優",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "5036": {
             "number": 5036,
             "name": "福田 翔吾",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5039": {
             "number": 5039,
             "name": "倉田 茂将",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5041": {
             "number": 5041,
             "name": "荒牧 凪沙",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5042": {
             "number": 5042,
             "name": "畑田 汰一",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5043": {
             "number": 5043,
             "name": "中村 日向",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5044": {
             "number": 5044,
             "name": "渡邉 健",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 1
         },
         "5045": {
             "number": 5045,
             "name": "平川 香織",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5047": {
             "number": 5047,
             "name": "國分 将太郎",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5049": {
             "number": 5049,
             "name": "松井 友汰",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5051": {
             "number": 5051,
             "name": "松本 純平",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5053": {
             "number": 5053,
             "name": "山口 広樹",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5061": {
             "number": 5061,
             "name": "中村 駿平",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5064": {
             "number": 5064,
             "name": "品川 二千翔",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5071": {
             "number": 5071,
             "name": "野見山 拓己",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5074": {
             "number": 5074,
             "name": "大澤 誠也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5075": {
             "number": 5075,
             "name": "中島 秀治",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5076": {
             "number": 5076,
             "name": "石原 光",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5087": {
             "number": 5087,
             "name": "佐藤 航",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5088": {
             "number": 5088,
             "name": "高憧 四季",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5089": {
             "number": 5089,
             "name": "前田 翔",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5092": {
             "number": 5092,
             "name": "篠原 晟弥",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5096": {
             "number": 5096,
             "name": "上原 崚",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5104": {
             "number": 5104,
             "name": "山田 丈",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5106": {
             "number": 5106,
             "name": "山崎 祥",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5109": {
             "number": 5109,
             "name": "川崎 智稔",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "5111": {
             "number": 5111,
             "name": "三村 岳人",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "5114": {
             "number": 5114,
             "name": "小林 孝彰",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5122": {
             "number": 5122,
             "name": "相馬 翔",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5123": {
             "number": 5123,
             "name": "福山 恵里奈",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5125": {
             "number": 5125,
             "name": "高井 雄基",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5126": {
             "number": 5126,
             "name": "山下 大輝",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5127": {
             "number": 5127,
             "name": "沼田 大都",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5130": {
             "number": 5130,
             "name": "上野 拓馬",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5131": {
             "number": 5131,
             "name": "江藤 敦宏",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5132": {
             "number": 5132,
             "name": "中野 希一",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5134": {
             "number": 5134,
             "name": "大原 祥昌",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 1
         },
         "5135": {
             "number": 5135,
             "name": "仲 航太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5136": {
             "number": 5136,
             "name": "濱野 斗馬",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5137": {
             "number": 5137,
             "name": "川原 涼",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5142": {
             "number": 5142,
             "name": "常住 蓮",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5143": {
             "number": 5143,
             "name": "常盤 海心",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5144": {
             "number": 5144,
             "name": "中尾 彩香",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5145": {
             "number": 5145,
             "name": "島川 海輝",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5148": {
             "number": 5148,
             "name": "松本 怜",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5150": {
             "number": 5150,
             "name": "坂本 雄紀",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5151": {
             "number": 5151,
             "name": "山下 奈緒",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5152": {
             "number": 5152,
             "name": "丸山 祐也",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5155": {
             "number": 5155,
             "name": "内山 七海",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5172": {
             "number": 5172,
             "name": "田村 慶",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5175": {
             "number": 5175,
             "name": "島崎 丈一朗",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "5177": {
             "number": 5177,
             "name": "松井 貫太",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5180": {
             "number": 5180,
             "name": "藤本 紗弥香",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5183": {
             "number": 5183,
             "name": "中野 孝二",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5186": {
             "number": 5186,
             "name": "遠藤 圭吾",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5187": {
             "number": 5187,
             "name": "小坂 風太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5189": {
             "number": 5189,
             "name": "藤原 早菜",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5190": {
             "number": 5190,
             "name": "大月 遊雅",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5191": {
             "number": 5191,
             "name": "飛田 江己",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5196": {
             "number": 5196,
             "name": "鰐部 太空海",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5197": {
             "number": 5197,
             "name": "中野 仁照",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5206": {
             "number": 5206,
             "name": "梅原 祥平",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5207": {
             "number": 5207,
             "name": "高山 敬悟",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5208": {
             "number": 5208,
             "name": "屋良 龍紀",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "5212": {
             "number": 5212,
             "name": "西川 拓利",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5216": {
             "number": 5216,
             "name": "長谷川 晴哉",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5217": {
             "number": 5217,
             "name": "藤原 碧生",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5234": {
             "number": 5234,
             "name": "塚越 海斗",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5244": {
             "number": 5244,
             "name": "黒田 剛",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5245": {
             "number": 5245,
             "name": "倉富 大誠",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5252": {
             "number": 5252,
             "name": "荒木 颯斗",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5253": {
             "number": 5253,
             "name": "藤井 太雅",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5255": {
             "number": 5255,
             "name": "藤原 仙二",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5257": {
             "number": 5257,
             "name": "西丸 侑太朗",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5258": {
             "number": 5258,
             "name": "仲本 舜",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5259": {
             "number": 5259,
             "name": "野田 昇吾",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5264": {
             "number": 5264,
             "name": "登 みひ果",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5268": {
             "number": 5268,
             "name": "山本 幸也",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "5271": {
             "number": 5271,
             "name": "杉山 太陽",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5273": {
             "number": 5273,
             "name": "山下 拓巳",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5276": {
             "number": 5276,
             "name": "大島 隆乃介",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5280": {
             "number": 5280,
             "name": "廣瀬 凜",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5281": {
             "number": 5281,
             "name": "井上 遥妃",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5282": {
             "number": 5282,
             "name": "中本 大樹",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5283": {
             "number": 5283,
             "name": "植木 美帆",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5284": {
             "number": 5284,
             "name": "嘉手苅 徹哉",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5287": {
             "number": 5287,
             "name": "滝沢 織寧",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5290": {
             "number": 5290,
             "name": "坂本 一真",
             "race_count": 1,
             "changed_race_count": 1,
-            "changed_race_rate": 1
+            "changed_race_rate": 1,
+            "outer_race_count": 1,
+            "outer_race_rate": 1,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5298": {
             "number": 5298,
             "name": "水谷 理人",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5299": {
             "number": 5299,
             "name": "西丸 敦基",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5301": {
             "number": 5301,
             "name": "岩下 巧斗",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5304": {
             "number": 5304,
             "name": "井田 涼介",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5308": {
             "number": 5308,
             "name": "藤森 拓海",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5309": {
             "number": 5309,
             "name": "森 雄利",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5311": {
             "number": 5311,
             "name": "小林 京平",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5315": {
             "number": 5315,
             "name": "浅井 翼",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5318": {
             "number": 5318,
             "name": "河内 一馬",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5323": {
             "number": 5323,
             "name": "香川 陽太",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5328": {
             "number": 5328,
             "name": "井上 慧人",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5329": {
             "number": 5329,
             "name": "金子 龍斗",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5331": {
             "number": 5331,
             "name": "佐藤 永梧",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5333": {
             "number": 5333,
             "name": "山下 智己",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5334": {
             "number": 5334,
             "name": "樫葉 新心",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5339": {
             "number": 5339,
             "name": "石井 伸長",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5343": {
             "number": 5343,
             "name": "小林 礼央",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5344": {
             "number": 5344,
             "name": "谷口 丞",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5345": {
             "number": 5345,
             "name": "牧村 俊輝",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5359": {
             "number": 5359,
             "name": "佐藤 世那",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5393": {
             "number": 5393,
             "name": "藤原 駿",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5394": {
             "number": 5394,
             "name": "福西 広太郎",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5396": {
             "number": 5396,
             "name": "近藤 来希",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5399": {
             "number": 5399,
             "name": "長野 未来",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5412": {
             "number": 5412,
             "name": "久保田 凪紗",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5417": {
             "number": 5417,
             "name": "小柳 勝希",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5419": {
             "number": 5419,
             "name": "櫻井 隼",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5422": {
             "number": 5422,
             "name": "真田 聖也",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5427": {
             "number": 5427,
             "name": "港 理樹",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 1,
+            "outer_race_rate": 0.5,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5428": {
             "number": 5428,
             "name": "古園井 綾南",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5432": {
             "number": 5432,
             "name": "安藤 瑠希",
             "race_count": 2,
             "changed_race_count": 1,
-            "changed_race_rate": 0.5
+            "changed_race_rate": 0.5,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 1,
+            "inner_race_rate": 0.5
         },
         "5434": {
             "number": 5434,
             "name": "藤田 康生",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5441": {
             "number": 5441,
             "name": "鈴木 雄登",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5445": {
             "number": 5445,
             "name": "一ノ木 匠",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5446": {
             "number": 5446,
             "name": "長嶺 真李愛",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5447": {
             "number": 5447,
             "name": "岡本 亜子",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5451": {
             "number": 5451,
             "name": "知念 伶奈",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5452": {
             "number": 5452,
             "name": "上馬場 風依",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5453": {
             "number": 5453,
             "name": "久保 翔耶",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5456": {
             "number": 5456,
             "name": "今村 天次朗",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5458": {
             "number": 5458,
             "name": "田中 大輝",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5461": {
             "number": 5461,
             "name": "板頭 里緒",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5462": {
             "number": 5462,
             "name": "山浦 槙",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5464": {
             "number": 5464,
             "name": "宮田 栞",
             "race_count": 2,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5469": {
             "number": 5469,
             "name": "今泉 博人",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5470": {
             "number": 5470,
             "name": "坂口 諒宗",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         },
         "5471": {
             "number": 5471,
             "name": "田中 結",
             "race_count": 1,
             "changed_race_count": 0,
-            "changed_race_rate": 0
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
         }
     }
 }
