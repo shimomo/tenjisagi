@@ -73,4 +73,73 @@ final class CourseChangeRepositoryTest extends TestCase
         self::assertSame('2026-05-01', $saved['date']);
         self::assertSame([1001, 3002], array_map('intval', array_keys($saved['racers'])));
     }
+
+    /**
+     * @return void
+     */
+    #[Test]
+    public function testHasRacersReturnsFalseWhenTheFileDoesNotExist(): void
+    {
+        $repository = new CourseChangeRepository($this->directory);
+
+        self::assertFalse($repository->hasRacers(Carbon::parse('2026-05-01')));
+    }
+
+    /**
+     * @return void
+     */
+    #[Test]
+    public function testHasRacersReturnsFalseWhenTheFileHasNoRacers(): void
+    {
+        $repository = new CourseChangeRepository($this->directory);
+        $repository->save(Carbon::parse('2026-05-01'), []);
+
+        self::assertFalse($repository->hasRacers(Carbon::parse('2026-05-01')));
+    }
+
+    /**
+     * @return void
+     */
+    #[Test]
+    public function testHasRacersReturnsTrueWhenTheFileHasRacers(): void
+    {
+        $repository = new CourseChangeRepository($this->directory);
+        $repository->save(Carbon::parse('2026-05-01'), [
+            1001 => ['number' => 1001, 'name' => 'A', 'race_count' => 1, 'changed_race_count' => 0, 'changed_race_rate' => 0.0],
+        ]);
+
+        self::assertTrue($repository->hasRacers(Carbon::parse('2026-05-01')));
+    }
+
+    /**
+     * @return void
+     */
+    #[Test]
+    public function testFindDatesWithoutRacersReturnsMissingAndEmptyDatesInAscendingOrder(): void
+    {
+        $repository = new CourseChangeRepository($this->directory);
+        $racer = [1001 => ['number' => 1001, 'name' => 'A', 'race_count' => 1, 'changed_race_count' => 0, 'changed_race_rate' => 0.0]];
+
+        $repository->save(Carbon::parse('2026-04-28'), $racer);
+        $repository->save(Carbon::parse('2026-04-29'), []);
+        $repository->save(Carbon::parse('2026-05-01'), $racer);
+
+        $dates = $repository->findDatesWithoutRacers(Carbon::parse('2026-05-01'), 4);
+
+        self::assertSame(
+            ['2026-04-29', '2026-04-30'],
+            array_map(static fn (Carbon $date): string => $date->format('Y-m-d'), $dates),
+        );
+    }
+
+    /**
+     * @return void
+     */
+    #[Test]
+    public function testFindDatesWithoutRacersReturnsNothingWhenDaysIsZero(): void
+    {
+        $repository = new CourseChangeRepository($this->directory);
+
+        self::assertSame([], $repository->findDatesWithoutRacers(Carbon::parse('2026-05-01'), 0));
+    }
 }

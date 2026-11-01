@@ -42,7 +42,7 @@ final class CourseChangeRepository
             throw new RuntimeException("Failed to create directory: {$this->directory}");
         }
 
-        $path = rtrim($this->directory, '/\\') . DIRECTORY_SEPARATOR . $date->format('Ymd') . '.json';
+        $path = $this->pathFor($date);
 
         ksort($stats);
 
@@ -56,5 +56,58 @@ final class CourseChangeRepository
         }
 
         return $path;
+    }
+
+    /**
+     * @param \Carbon\CarbonImmutable $date
+     * @return bool
+     * @throws \RuntimeException
+     */
+    public function hasRacers(Carbon $date): bool
+    {
+        $path = $this->pathFor($date);
+
+        if (!is_file($path)) {
+            return false;
+        }
+
+        /**
+         * @var array{
+         *     racers?: array,
+         * }
+         */
+        $payload = JsonDecoder::decode((string) file_get_contents($path), $path);
+
+        return ($payload['racers'] ?? []) !== [];
+    }
+
+    /**
+     * @param \Carbon\CarbonImmutable $until
+     * @param int $days
+     * @return list<\Carbon\CarbonImmutable>
+     * @throws \RuntimeException
+     */
+    public function findDatesWithoutRacers(Carbon $until, int $days): array
+    {
+        $dates = [];
+
+        for ($offset = $days - 1; $offset >= 0; $offset--) {
+            $date = $until->subDays($offset);
+
+            if (!$this->hasRacers($date)) {
+                $dates[] = $date;
+            }
+        }
+
+        return $dates;
+    }
+
+    /**
+     * @param \Carbon\CarbonImmutable $date
+     * @return string
+     */
+    private function pathFor(Carbon $date): string
+    {
+        return rtrim($this->directory, '/\\') . DIRECTORY_SEPARATOR . $date->format('Ymd') . '.json';
     }
 }

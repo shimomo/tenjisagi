@@ -27,6 +27,11 @@ try {
 $analyzer = new CourseChangeAnalyzer();
 $stats = $analyzer->analyze($programs);
 
+if ($stats === []) {
+    fwrite(STDOUT, "Skipped {$date->format('Y-m-d')}: no results with course numbers yet" . PHP_EOL);
+    exit(0);
+}
+
 $repository = new CourseChangeRepository($directory);
 $path = $repository->save($date, $stats);
 

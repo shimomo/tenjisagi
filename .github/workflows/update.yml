@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '3 */3 * * *'
   workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: 'Re-analyze days before yesterday that have no racers, going back this many days'
+        required: false
+        default: '14'
 
 permissions:
   contents: write
@@ -40,6 +45,17 @@ jobs:
         run: |
           echo "today=$(TZ=Asia/Tokyo date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
           echo "yesterday=$(TZ=Asia/Tokyo date -d 'yesterday' +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+          echo "day_before_yesterday=$(TZ=Asia/Tokyo date -d '2 days ago' +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Re-analyze earlier days that have no racers yet
+        env:
+          LOOKBACK_DAYS: ${{ inputs.lookback_days || '14' }}
+        run: |
+          set -o pipefail
+          php bin/find-dates-without-racers.php "${LOOKBACK_DAYS}" "${{ steps.date.outputs.day_before_yesterday }}" |
+            while read -r date; do
+              php bin/analyze-course-changes.php "${date}"
+            done
 
       - name: Analyze yesterday's course changes
         run: php bin/analyze-course-changes.php "${{ steps.date.outputs.yesterday }}"

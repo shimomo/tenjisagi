@@ -36,14 +36,15 @@
 
 | スクリプト | 役割 |
 | --- | --- |
-| `bin/analyze-course-changes.php [date] [directory]` | 指定日のレース結果を取得・集計し、`docs/course-changes/{Ymd}.json` に保存 |
+| `bin/analyze-course-changes.php [date] [directory]` | 指定日のレース結果を取得・集計し、`docs/course-changes/{Ymd}.json` に保存（進入コース付きの結果がまだ1件もなければ保存せずスキップ） |
+| `bin/find-dates-without-racers.php [days] [until] [directory]` | `until`（既定は今日）から遡って `days` 日（既定14日）のうち、日次ファイルが無いか `racers` が空の日付を1行ずつ出力。更新ワークフローがこれを使って取りこぼした日を取り直す |
 | `bin/aggregate-course-changes.php [directory] [path]` | 日次ファイルを直近1年・30走以上の条件で集計して、ランキングページが読む `docs/course-changes-summary.json` を再生成 |
 
 ```
 src/
 ├── ProgramsFetcher.php                 # Boatrace Open API から出走表・直前情報・結果を取得
 ├── CourseChangeAnalyzer.php            # 1日分のレースから進入変化（外側・内側）を集計
-├── CourseChangeRepository.php          # 日次集計を JSON として保存
+├── CourseChangeRepository.php          # 日次集計を JSON として保存・未取得日の検出
 ├── CourseChangeAggregator.php          # 日次 JSON を直近1年・30走以上の条件で再集計
 ├── CourseChangeSummaryRepository.php   # 再集計結果をランキング用 JSON として保存
 ├── JsonDecoder.php / JsonEncoder.php   # JSON の読み書き共通処理
