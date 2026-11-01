@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ボートレース（競艇）選手ごとに、スタート展示と本番の進入コースがどれだけ変わるかを集計したランキングです。">
-    <title>進入変化率ランキング | ボートレース（競艇）進入コース分析 - Tenjisagi</title>
+    <meta name="description" content="ボートレース（競艇）選手ごとに、スタート展示より本番の進入コースが外側（または内側）になった割合を集計したランキングです。">
+    <title>コース奪われ率ランキング | ボートレース（競艇）進入コース分析 - Tenjisagi</title>
     <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
     <link rel="stylesheet" href="./assets/style.css">
 </head>
@@ -22,10 +22,11 @@
 
         <div class="header-inner">
             <p class="eyebrow">TENJISAGI COURSE DATA</p>
-            <h1>進入変化率ランキング</h1>
+            <h1>コース奪われ率ランキング</h1>
             <p class="meta">全国のボートレース（競艇）のレース結果をもとに算出した、選手ごとのランキングです</p>
             <p id="generated-at" class="meta"></p>
-            <p class="meta note">進入変化率とは、スタート展示の進入コースと本番の進入コースが異なった割合です</p>
+            <p class="meta note">外側率とは、本番の進入コースがスタート展示より外側になった（コースを奪われた・譲った）割合です</p>
+            <p class="meta note">内側率とは、本番の進入コースがスタート展示より内側になった割合です</p>
             <p class="meta note">直近1年・30走以上のデータを集計対象としています</p>
         </div>
 
@@ -49,8 +50,10 @@
                     <col class="col-number">
                     <col class="col-name">
                     <col class="col-race-count">
-                    <col class="col-changed-race-count">
-                    <col class="col-changed-race-rate">
+                    <col class="col-outer-race-count">
+                    <col class="col-outer-race-rate">
+                    <col class="col-inner-race-count">
+                    <col class="col-inner-race-rate">
                 </colgroup>
 
                 <thead>
@@ -59,8 +62,10 @@
                         <th data-key="number">登録番号</th>
                         <th data-key="name">選手名</th>
                         <th data-key="race_count">レース数</th>
-                        <th data-key="changed_race_count">進入変化数</th>
-                        <th data-key="changed_race_rate">進入変化率</th>
+                        <th data-key="outer_race_count">外側へ</th>
+                        <th data-key="outer_race_rate">外側率</th>
+                        <th data-key="inner_race_count">内側へ</th>
+                        <th data-key="inner_race_rate">内側率</th>
                     </tr>
                 </thead>
 

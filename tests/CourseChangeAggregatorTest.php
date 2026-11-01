@@ -47,10 +47,20 @@ final class CourseChangeAggregatorTest extends TestCase
     public function testRacesAreSummedAcrossFilesWithinTheWindow(): void
     {
         $this->writeDay(Carbon::now()->subDays(10), [
-            1001 => ['number' => 1001, 'name' => 'A', 'race_count' => 20, 'changed_race_count' => 4, 'changed_race_rate' => 0.2],
+            1001 => [
+                'number' => 1001, 'name' => 'A', 'race_count' => 20,
+                'changed_race_count' => 4, 'changed_race_rate' => 0.2,
+                'outer_race_count' => 3, 'outer_race_rate' => 0.15,
+                'inner_race_count' => 1, 'inner_race_rate' => 0.05,
+            ],
         ]);
         $this->writeDay(Carbon::now()->subDays(5), [
-            1001 => ['number' => 1001, 'name' => 'A', 'race_count' => 15, 'changed_race_count' => 6, 'changed_race_rate' => 0.4],
+            1001 => [
+                'number' => 1001, 'name' => 'A', 'race_count' => 15,
+                'changed_race_count' => 6, 'changed_race_rate' => 0.4,
+                'outer_race_count' => 5, 'outer_race_rate' => 0.3333,
+                'inner_race_count' => 1, 'inner_race_rate' => 0.0667,
+            ],
         ]);
 
         $stats = (new CourseChangeAggregator())->aggregate($this->directory);
@@ -61,6 +71,10 @@ final class CourseChangeAggregatorTest extends TestCase
             'race_count' => 35,
             'changed_race_count' => 10,
             'changed_race_rate' => round(10 / 35, 4),
+            'outer_race_count' => 8,
+            'outer_race_rate' => round(8 / 35, 4),
+            'inner_race_count' => 2,
+            'inner_race_rate' => round(2 / 35, 4),
         ], $stats[1001]);
     }
 

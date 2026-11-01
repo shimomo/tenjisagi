@@ -30,6 +30,10 @@ final class CourseChangeAnalyzerTest extends TestCase
                 'race_count' => 1,
                 'changed_race_count' => 0,
                 'changed_race_rate' => 0.0,
+                'outer_race_count' => 0,
+                'outer_race_rate' => 0.0,
+                'inner_race_count' => 0,
+                'inner_race_rate' => 0.0,
             ],
         ], $stats);
     }
@@ -47,6 +51,38 @@ final class CourseChangeAnalyzerTest extends TestCase
         self::assertSame(1, $stats[1002]['race_count']);
         self::assertSame(1, $stats[1002]['changed_race_count']);
         self::assertSame(1.0, $stats[1002]['changed_race_rate']);
+    }
+
+    /**
+     * @return void
+     */
+    #[Test]
+    public function testRaceWithAnOuterCourseIsCountedAsOuter(): void
+    {
+        $stats = (new CourseChangeAnalyzer())->analyze($this->programsWithOneRace([
+            $this->racer(entryNumber: 2, previewCourse: 2, resultCourse: 3, number: 1002, name: 'B'),
+        ]));
+
+        self::assertSame(1, $stats[1002]['outer_race_count']);
+        self::assertSame(1.0, $stats[1002]['outer_race_rate']);
+        self::assertSame(0, $stats[1002]['inner_race_count']);
+        self::assertSame(0.0, $stats[1002]['inner_race_rate']);
+    }
+
+    /**
+     * @return void
+     */
+    #[Test]
+    public function testRaceWithAnInnerCourseIsCountedAsInner(): void
+    {
+        $stats = (new CourseChangeAnalyzer())->analyze($this->programsWithOneRace([
+            $this->racer(entryNumber: 5, previewCourse: 5, resultCourse: 2, number: 1003, name: 'B'),
+        ]));
+
+        self::assertSame(1, $stats[1003]['changed_race_count']);
+        self::assertSame(0, $stats[1003]['outer_race_count']);
+        self::assertSame(1, $stats[1003]['inner_race_count']);
+        self::assertSame(1.0, $stats[1003]['inner_race_rate']);
     }
 
     /**
@@ -71,6 +107,8 @@ final class CourseChangeAnalyzerTest extends TestCase
         self::assertSame(2, $stats[2001]['race_count']);
         self::assertSame(1, $stats[2001]['changed_race_count']);
         self::assertSame(0.5, $stats[2001]['changed_race_rate']);
+        self::assertSame(1, $stats[2001]['outer_race_count']);
+        self::assertSame(0.5, $stats[2001]['outer_race_rate']);
     }
 
     /**

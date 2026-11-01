@@ -66,20 +66,20 @@ final class CourseChangeSummaryRepositoryTest extends TestCase
      * @return void
      */
     #[Test]
-    public function testSaveSortsRacersByChangedRaceRateDescending(): void
+    public function testSaveSortsRacersByOuterRaceRateDescending(): void
     {
         $repository = new CourseChangeSummaryRepository($this->path);
 
         $stats = [
-            1001 => ['number' => 1001, 'name' => 'A', 'race_count' => 10, 'changed_race_count' => 1, 'changed_race_rate' => 0.1],
-            2002 => ['number' => 2002, 'name' => 'B', 'race_count' => 10, 'changed_race_count' => 9, 'changed_race_rate' => 0.9],
-            3003 => ['number' => 3003, 'name' => 'C', 'race_count' => 10, 'changed_race_count' => 5, 'changed_race_rate' => 0.5],
+            1001 => $this->racer(1001, 'A', changed: 1, outer: 1, inner: 0),
+            2002 => $this->racer(2002, 'B', changed: 9, outer: 2, inner: 7),
+            3003 => $this->racer(3003, 'C', changed: 5, outer: 5, inner: 0),
         ];
 
         $path = $repository->save($stats);
         $saved = json_decode((string) file_get_contents($path), true);
 
-        self::assertSame([2002, 3003, 1001], array_map('intval', array_keys($saved['racers'])));
+        self::assertSame([3003, 2002, 1001], array_map('intval', array_keys($saved['racers'])));
         self::assertArrayHasKey('generated_at', $saved);
     }
 
@@ -92,15 +92,43 @@ final class CourseChangeSummaryRepositoryTest extends TestCase
         $repository = new CourseChangeSummaryRepository($this->path);
 
         $repository->save([
-            1001 => ['number' => 1001, 'name' => 'A', 'race_count' => 10, 'changed_race_count' => 1, 'changed_race_rate' => 0.1],
+            1001 => $this->racer(1001, 'A', changed: 1, outer: 1, inner: 0),
         ]);
 
         $path = $repository->save([
-            2002 => ['number' => 2002, 'name' => 'B', 'race_count' => 10, 'changed_race_count' => 9, 'changed_race_rate' => 0.9],
+            2002 => $this->racer(2002, 'B', changed: 9, outer: 2, inner: 7),
         ]);
 
         $saved = json_decode((string) file_get_contents($path), true);
 
         self::assertSame([2002], array_map('intval', array_keys($saved['racers'])));
+    }
+
+    /**
+     * @return array{
+     *     number: int,
+     *     name: string,
+     *     race_count: int,
+     *     changed_race_count: int,
+     *     changed_race_rate: float,
+     *     outer_race_count: int,
+     *     outer_race_rate: float,
+     *     inner_race_count: int,
+     *     inner_race_rate: float,
+     * }
+     */
+    private function racer(int $number, string $name, int $changed, int $outer, int $inner): array
+    {
+        return [
+            'number' => $number,
+            'name' => $name,
+            'race_count' => 10,
+            'changed_race_count' => $changed,
+            'changed_race_rate' => $changed / 10,
+            'outer_race_count' => $outer,
+            'outer_race_rate' => $outer / 10,
+            'inner_race_count' => $inner,
+            'inner_race_rate' => $inner / 10,
+        ];
     }
 }

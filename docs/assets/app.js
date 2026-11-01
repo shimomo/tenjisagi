@@ -49,16 +49,16 @@
 
     function assignRanks(racers) {
         var byRate = racers.slice().sort(function (a, b) {
-            return b.changed_race_rate - a.changed_race_rate;
+            return b.outer_race_rate - a.outer_race_rate;
         });
 
         var rank = 0;
         var previousRate = null;
 
         byRate.forEach(function (racer, index) {
-            if (racer.changed_race_rate !== previousRate) {
+            if (racer.outer_race_rate !== previousRate) {
                 rank = index + 1;
-                previousRate = racer.changed_race_rate;
+                previousRate = racer.outer_race_rate;
             }
 
             racer.rank = rank;
@@ -107,8 +107,10 @@
             row.appendChild(createCell(String(racer.number), true));
             row.appendChild(createCell(racer.name, false));
             row.appendChild(createCell(String(racer.race_count), true));
-            row.appendChild(createCell(String(racer.changed_race_count), true));
-            row.appendChild(createRateCell(racer.changed_race_rate));
+            row.appendChild(createCell(String(racer.outer_race_count), true));
+            row.appendChild(createRateCell(racer.outer_race_rate));
+            row.appendChild(createCell(String(racer.inner_race_count), true));
+            row.appendChild(createCell(formatRate(racer.inner_race_rate), true));
 
             elements.body.appendChild(row);
         });

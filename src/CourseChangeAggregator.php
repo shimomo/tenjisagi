@@ -23,6 +23,10 @@ final class CourseChangeAggregator
      *     race_count: int,
      *     changed_race_count: int,
      *     changed_race_rate: float,
+     *     outer_race_count: int,
+     *     outer_race_rate: float,
+     *     inner_race_count: int,
+     *     inner_race_rate: float,
      * }>
      * @throws \RuntimeException
      */
@@ -52,6 +56,10 @@ final class CourseChangeAggregator
              *         race_count: int,
              *         changed_race_count: int,
              *         changed_race_rate: float,
+             *         outer_race_count?: int,
+             *         outer_race_rate?: float,
+             *         inner_race_count?: int,
+             *         inner_race_rate?: float,
              *     }>,
              * }
              */
@@ -71,21 +79,37 @@ final class CourseChangeAggregator
                     'race_count' => 0,
                     'changed_race_count' => 0,
                     'changed_race_rate' => 0.0,
+                    'outer_race_count' => 0,
+                    'outer_race_rate' => 0.0,
+                    'inner_race_count' => 0,
+                    'inner_race_rate' => 0.0,
                 ];
 
                 $stats[$number]['race_count'] += $racer['race_count'] ?? 0;
                 $stats[$number]['changed_race_count'] += $racer['changed_race_count'] ?? 0;
+                $stats[$number]['outer_race_count'] += $racer['outer_race_count'] ?? 0;
+                $stats[$number]['inner_race_count'] += $racer['inner_race_count'] ?? 0;
             }
         }
 
         foreach ($stats as &$stat) {
-            $stat['changed_race_rate'] = $stat['race_count'] > 0
-                ? round($stat['changed_race_count'] / $stat['race_count'], 4)
-                : 0.0;
+            $stat['changed_race_rate'] = self::rate($stat['changed_race_count'], $stat['race_count']);
+            $stat['outer_race_rate'] = self::rate($stat['outer_race_count'], $stat['race_count']);
+            $stat['inner_race_rate'] = self::rate($stat['inner_race_count'], $stat['race_count']);
         }
 
         unset($stat);
 
         return array_filter($stats, static fn (array $stat): bool => $stat['race_count'] >= self::MIN_RACE_COUNT);
+    }
+
+    /**
+     * @param int $count
+     * @param int $raceCount
+     * @return float
+     */
+    private static function rate(int $count, int $raceCount): float
+    {
+        return $raceCount > 0 ? round($count / $raceCount, 4) : 0.0;
     }
 }

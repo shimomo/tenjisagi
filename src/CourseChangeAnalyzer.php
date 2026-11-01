@@ -36,6 +36,10 @@ final class CourseChangeAnalyzer
      *     race_count: int,
      *     changed_race_count: int,
      *     changed_race_rate: float,
+     *     outer_race_count: int,
+     *     outer_race_rate: float,
+     *     inner_race_count: int,
+     *     inner_race_rate: float,
      * }>
      */
     public function analyze(array $programs): array
@@ -49,9 +53,9 @@ final class CourseChangeAnalyzer
         }
 
         foreach ($stats as &$stat) {
-            $stat['changed_race_rate'] = $stat['race_count'] >= 1
-                ? round($stat['changed_race_count'] / $stat['race_count'], 4)
-                : 0.0;
+            $stat['changed_race_rate'] = self::rate($stat['changed_race_count'], $stat['race_count']);
+            $stat['outer_race_rate'] = self::rate($stat['outer_race_count'], $stat['race_count']);
+            $stat['inner_race_rate'] = self::rate($stat['inner_race_count'], $stat['race_count']);
         }
 
         unset($stat);
@@ -82,6 +86,10 @@ final class CourseChangeAnalyzer
      *     race_count: int,
      *     changed_race_count: int,
      *     changed_race_rate: float,
+     *     outer_race_count: int,
+     *     outer_race_rate: float,
+     *     inner_race_count: int,
+     *     inner_race_rate: float,
      * }> $stats
      * @return void
      */
@@ -111,6 +119,10 @@ final class CourseChangeAnalyzer
                 'race_count' => 0,
                 'changed_race_count' => 0,
                 'changed_race_rate' => 0.0,
+                'outer_race_count' => 0,
+                'outer_race_rate' => 0.0,
+                'inner_race_count' => 0,
+                'inner_race_rate' => 0.0,
             ];
 
             $stats[$number]['race_count']++;
@@ -118,6 +130,24 @@ final class CourseChangeAnalyzer
             if ($resultCourseNumber !== $previewCourseNumber) {
                 $stats[$number]['changed_race_count']++;
             }
+
+            if ($resultCourseNumber > $previewCourseNumber) {
+                $stats[$number]['outer_race_count']++;
+            }
+
+            if ($resultCourseNumber < $previewCourseNumber) {
+                $stats[$number]['inner_race_count']++;
+            }
         }
+    }
+
+    /**
+     * @param int $count
+     * @param int $raceCount
+     * @return float
+     */
+    private static function rate(int $count, int $raceCount): float
+    {
+        return $raceCount > 0 ? round($count / $raceCount, 4) : 0.0;
     }
 }

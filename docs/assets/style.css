@@ -197,21 +197,26 @@ table {
 }
 
 .col-rank {
-    width: 8%;
+    width: 7%;
 }
 
 .col-number {
-    width: 12%;
+    width: 11%;
 }
 
 .col-name {
-    width: 26%;
+    width: 22%;
 }
 
 .col-race-count,
-.col-changed-race-count,
-.col-changed-race-rate {
-    width: 18%;
+.col-outer-race-count,
+.col-inner-race-count {
+    width: 11%;
+}
+
+.col-outer-race-rate,
+.col-inner-race-rate {
+    width: 13.5%;
 }
 
 thead th {

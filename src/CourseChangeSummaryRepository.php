@@ -27,6 +27,10 @@ final class CourseChangeSummaryRepository
      *     race_count: int,
      *     changed_race_count: int,
      *     changed_race_rate: float,
+     *     outer_race_count: int,
+     *     outer_race_rate: float,
+     *     inner_race_count: int,
+     *     inner_race_rate: float,
      * }> $stats
      * @return string
      * @throws \RuntimeException
@@ -43,7 +47,7 @@ final class CourseChangeSummaryRepository
             throw new RuntimeException("Failed to remove existing file: {$this->path}");
         }
 
-        uasort($stats, static fn (array $a, array $b): int => $b['changed_race_rate'] <=> $a['changed_race_rate']);
+        uasort($stats, static fn (array $a, array $b): int => $b['outer_race_rate'] <=> $a['outer_race_rate']);
 
         $json = JsonEncoder::encode([
             'generated_at' => Carbon::now()->toIso8601String(),

@@ -28,6 +28,10 @@ final class CourseChangeRepository
      *     race_count: int,
      *     changed_race_count: int,
      *     changed_race_rate: float,
+     *     outer_race_count: int,
+     *     outer_race_rate: float,
+     *     inner_race_count: int,
+     *     inner_race_rate: float,
      * }> $stats
      * @return string
      * @throws \RuntimeException
