@@ -1,0 +1,71 @@
+{
+    "date": "2026-11-19",
+    "racers": {
+        "3587": {
+            "number": 3587,
+            "name": "武田 信一",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
+        },
+        "4197": {
+            "number": 4197,
+            "name": "渥美 卓郎",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
+        },
+        "4636": {
+            "number": 4636,
+            "name": "赤池 修平",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
+        },
+        "4897": {
+            "number": 4897,
+            "name": "深見 亜由美",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
+        },
+        "5054": {
+            "number": 5054,
+            "name": "佐々木 大河",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
+        },
+        "5446": {
+            "number": 5446,
+            "name": "長嶺 真李愛",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0,
+            "outer_race_count": 0,
+            "outer_race_rate": 0,
+            "inner_race_count": 0,
+            "inner_race_rate": 0
+        }
+    }
+}
